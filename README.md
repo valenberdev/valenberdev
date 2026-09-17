@@ -2,7 +2,7 @@
 
 Backend Developer Jr. | Node.js · TypeScript · PostgreSQL · AWS
 
-Desarrollador Fullstack egresado de Henry, con foco en backend: diseño de APIs REST, modelado de datos relacional y testing automatizado. Construyo aplicaciones completas de punta a punta — de la base de datos al deploy — y estoy buscando mi primera posición como backend o fullstack junior.
+Fullstack Developer, Henry graduate, focused on backend: REST API design, relational data modeling, and automated testing. I build complete applications end-to-end — from database to deployment — and I'm looking for my first position as a backend or fullstack junior developer.
 
 ## Stack
 
@@ -15,17 +15,17 @@ Desarrollador Fullstack egresado de Henry, con foco en backend: diseño de APIs 
 ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-## Proyectos destacados
+## Featured Projects
 
-**[Cheese Cash — Billetera digital multi-moneda](https://github.com/valenberdev/cheesecash-backend)**
-Backend de una billetera para viajeros (ARS/USD/EUR + BTC) con compra/venta a tasas reales, notificaciones transaccionales por email y confirmación de operaciones de alto monto. Express + TypeScript + PostgreSQL, desplegado en Railway.
+**[Cheese Cash — Multi-Currency Digital Wallet](https://github.com/valenberdev/cheesecash-backend)**
+Backend for a travel wallet (ARS/USD/EUR + BTC) with buying/selling at real-time rates, transactional email notifications, and confirmation for high-value transactions. Express + TypeScript + PostgreSQL, deployed on Railway.
 
 **[MCP GitHub Agent](https://github.com/valenberdev/mcp-github-agent)**
-Servidor MCP que automatiza GitHub por lenguaje natural (crear repos, issues, commits) usando Octokit, con validación de contratos en Zod, manejo de errores tipado y reintentos con backoff exponencial. 13 tests con Vitest.
+MCP server that automates GitHub via natural language (create repos, issues, commits) using Octokit, with contract validation in Zod, typed error handling, and exponential-backoff retries. 13 tests with Vitest.
 
-**[Gestor de Tareas](https://github.com/valenberdev/gestor-tareas)**
-SPA de gestión de tareas con React + TypeScript, auth con Google, filtros, drag & drop y resúmenes automáticos por email. Firebase + AWS SES, desplegado en Vercel — [demo en vivo](https://proyecto-m4-valentino-berdini.vercel.app).
+**[Task Manager](https://github.com/valenberdev/gestor-tareas)**
+Task-management SPA with React + TypeScript, Google auth, filters, drag & drop, and automatic email summaries. Firebase + AWS SES, deployed on Vercel — [live demo](https://proyecto-m4-valentino-berdini.vercel.app).
 
-## Contacto
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/valenberdini/) · vaberdini@gmail.com · Bahía Blanca, Argentina
