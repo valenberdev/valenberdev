@@ -38,8 +38,8 @@ I build complete applications end-to-end, from database to deployment, and I'm l
 
 ## 🚀 Featured Projects
 
-### 💸 [Control de Gastos: Expense Tracker](REPO_URL)
-Personal expense tracker built for speed: log an expense in seconds by sending a message to a **Telegram bot**, then see where your money goes in a **spending-by-category pie chart**. Installable as a **PWA on iPhone**, with no App Store or developer account needed. JWT authentication, Dockerized, with a CI/CD pipeline on GitHub Actions. [Live demo](DEMO_URL)
+### 💸 [Control de Gastos: Expense Tracker](https://github.com/valenberdev/control-gastos)
+Personal expense tracker built for speed: log an expense in seconds by sending a message to a **Telegram bot**, then see where your money goes in a **spending-by-category pie chart**. Installable as a **PWA on iPhone**, with no App Store or developer account needed. JWT authentication, Dockerized, with a CI/CD pipeline on GitHub Actions. [Live demo](https://control-gastos-roan-eight.vercel.app/login)
 
 ### 🧀 [Cheese Cash: Multi-Currency Digital Wallet](https://github.com/valenberdev/cheesecash-backend)
 Backend for a travel wallet (ARS/USD/EUR + BTC) with buying/selling at real-time rates, transactional email notifications, and confirmation for high-value transactions.
