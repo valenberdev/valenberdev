@@ -2,7 +2,7 @@
 
 # Hi, I'm Valentino Berdini 👋
 
-### Backend Developer Jr. | Node.js · TypeScript · PostgreSQL · AWS SES
+### Backend Developer Jr. | Node.js · TypeScript · PostgreSQL · Docker | REST APIs
 
 Fullstack Developer (Henry graduate) focused on backend: REST API design, relational data modeling, and automated testing.
 I build complete applications end-to-end, from database to deployment, and I'm looking for my first position as a backend or fullstack junior developer.
