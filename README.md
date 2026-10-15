@@ -2,7 +2,7 @@
 
 # Hi, I'm Valentino Berdini 👋
 
-### Junior Full Stack Developer (backend-focused) | Node.js · TypeScript · PostgreSQL · React
+### Junior Full Stack Developer (backend-focused) | Node.js · TypeScript · PostgreSQL · React · Docker
 
 Henry Fullstack Developer graduate based in Bahía Blanca, Argentina. I design REST APIs, model relational data and test what I build.
 I ship complete applications end to end, from the database to deployment, and I'm looking for my first position as a backend or full stack junior developer.
