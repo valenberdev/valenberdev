@@ -86,7 +86,7 @@ Full stack SPA with authentication (email/password and Google Sign-In), Firestor
 ---
 
 ## 📬 Let's talk
-![](https://komarev.com/ghpvc/?username=valenberdev&color=green)
+
 Open to remote junior backend / full stack opportunities. Reach me on [LinkedIn](https://www.linkedin.com/in/valenberdini/) or at [vaberdini@gmail.com](mailto:vaberdini@gmail.com).
 
 📍 Bahía Blanca, Argentina
